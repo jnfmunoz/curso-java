@@ -26,6 +26,6 @@ public class Saludar {
         }
         System.out.println("nombre = " + nombre);
 
-        
+
     }
 }
