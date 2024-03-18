@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f43dfb-dfda-4d26-995d-7270129d209d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="07bef2d8-3704-4423-a12a-488f20e8cc9d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../01-HolaMundo/HolaMundo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-HolaMundo/HolaMundo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,23 +24,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2dna72sZgU4SVmKROgc73G5DvyP" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2dqILfewG1QILggyyoQeYMXzzQv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Primitivos.executor": "Run",
+    "Application.PrimitivosFloat.executor": "Run",
     "Application.Saludar.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/curso-java/02-Variables/Variables",
-    "onboarding.tips.debug.path": "C:/curso-java/01-HolaMundo/HolaMundo/src/Main.java",
     "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
@@ -56,11 +55,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f6f43dfb-dfda-4d26-995d-7270129d209d" name="Changes" comment="" />
-      <created>1710646134671</created>
+      <changelist id="07bef2d8-3704-4423-a12a-488f20e8cc9d" name="Changes" comment="" />
+      <created>1710729127816</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710646134671</updated>
+      <updated>1710729127816</updated>
     </task>
     <servers />
   </component>
