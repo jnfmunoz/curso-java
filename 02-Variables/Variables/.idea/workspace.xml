@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="07bef2d8-3704-4423-a12a-488f20e8cc9d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitivosFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitivosFloat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitivosChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitivosChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +40,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/curso-java/02-Variables/Variables",
-    "settings.editor.selected.configurable": "proofread"
+    "last_opened_file_path": "C:/projects/curso-java/02-Variables/Variables",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PrimitivosChar">
+    <configuration name="Primitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Primitivos" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimitivosChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimitivosChar" />
       <module name="Variables" />
@@ -56,6 +64,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.PrimitivosChar" />
+        <item itemvalue="Application.Primitivos" />
       </list>
     </recent_temporary>
   </component>
