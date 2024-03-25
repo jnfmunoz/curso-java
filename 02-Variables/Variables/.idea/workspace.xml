@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Primitivos.executor": "Run",
+    "Application.PrimitivosBoolean.executor": "Run",
     "Application.PrimitivosChar.executor": "Run",
     "Application.PrimitivosFloat.executor": "Run",
     "Application.Saludar.executor": "Run",
@@ -46,7 +47,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrimitivosChar">
+  <component name="RunManager">
     <configuration name="Primitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Primitivos" />
       <module name="Variables" />
