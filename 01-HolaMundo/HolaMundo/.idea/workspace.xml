@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f43dfb-dfda-4d26-995d-7270129d209d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Saludar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saludar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Variables/Variables/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/curso-java/02-Variables/Variables",
+    "last_opened_file_path": "C:/projects/curso-java/01-HolaMundo/HolaMundo",
     "onboarding.tips.debug.path": "C:/curso-java/01-HolaMundo/HolaMundo/src/Main.java",
     "settings.editor.selected.configurable": "proofread"
   }
