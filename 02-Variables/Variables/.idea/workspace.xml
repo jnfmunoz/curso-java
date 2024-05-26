@@ -7,6 +7,8 @@
     <list default="true" id="07bef2d8-3704-4423-a12a-488f20e8cc9d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../01-HolaMundo/HolaMundo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-HolaMundo/HolaMundo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/1_primitivos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/1_variables.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SistemasNumericos">
+  <component name="RunManager" selected="Application.PrimitivosBoolean">
     <configuration name="Primitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Primitivos" />
       <module name="Variables" />
@@ -75,6 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimitivosFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosFloat" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SistemasNumericos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SistemasNumericos" />
       <module name="Variables" />
@@ -84,10 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SistemasNumericos" />
         <item itemvalue="Application.PrimitivosBoolean" />
-        <item itemvalue="Application.Primitivos" />
+        <item itemvalue="Application.PrimitivosFloat" />
         <item itemvalue="Application.PrimitivosChar" />
+        <item itemvalue="Application.SistemasNumericos" />
+        <item itemvalue="Application.Primitivos" />
       </list>
     </recent_temporary>
   </component>
