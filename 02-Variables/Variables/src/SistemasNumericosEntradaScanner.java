@@ -20,9 +20,7 @@ public class SistemasNumericosEntradaScanner {
         System.out.println("decimalNumber = " + decimalNumber);
 
         String binaryResult = "numero binario de " + decimalNumber + " = " + Integer.toBinaryString(decimalNumber);
-
         String octalResult = "numero octal de " + decimalNumber + " = " + Integer.toOctalString(decimalNumber);
-
         String hexResult = "numero hexadecimal de " + decimalNumber + " = " + Integer.toHexString(decimalNumber);
 
         String mensaje = binaryResult;

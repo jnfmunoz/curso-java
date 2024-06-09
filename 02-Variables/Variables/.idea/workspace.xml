@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="07bef2d8-3704-4423-a12a-488f20e8cc9d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemasNumericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemasNumericos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConversionDeTipos.executor": "Run",
     "Application.Primitivos.executor": "Run",
     "Application.PrimitivosBoolean.executor": "Run",
     "Application.PrimitivosChar.executor": "Run",
@@ -46,7 +46,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/curso-java/02-Variables/Variables",
+    "last_opened_file_path": "C:/projects/curso-java/02-Variables/Variables",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
@@ -55,16 +55,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SistemasNumericosEntradaScanner">
-    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitivosBoolean" />
+  <component name="RunManager" selected="Application.ConversionDeTipos">
+    <configuration name="ConversionDeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversionDeTipos" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitivosChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitivosChar" />
+    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosBoolean" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversionDeTipos" />
         <item itemvalue="Application.SistemasNumericosEntradaScanner" />
         <item itemvalue="Application.SistemasNumericos" />
         <item itemvalue="Application.PrimitivosBoolean" />
         <item itemvalue="Application.PrimitivosFloat" />
-        <item itemvalue="Application.PrimitivosChar" />
       </list>
     </recent_temporary>
   </component>
