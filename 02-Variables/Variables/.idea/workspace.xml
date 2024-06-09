@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07bef2d8-3704-4423-a12a-488f20e8cc9d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../01-HolaMundo/HolaMundo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-HolaMundo/HolaMundo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../docs/1_primitivos.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../docs/1_variables.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SistemasNumericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemasNumericos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +40,13 @@
     "Application.PrimitivosFloat.executor": "Run",
     "Application.Saludar.executor": "Run",
     "Application.SistemasNumericos.executor": "Run",
+    "Application.SistemasNumericosEntradaScanner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/projects/curso-java/01-HolaMundo/HolaMundo",
+    "last_opened_file_path": "C:/curso-java/02-Variables/Variables",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
@@ -55,14 +55,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimitivosBoolean">
-    <configuration name="Primitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Primitivos" />
-      <module name="Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SistemasNumericosEntradaScanner">
     <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimitivosBoolean" />
       <module name="Variables" />
@@ -91,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SistemasNumericosEntradaScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemasNumericosEntradaScanner" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemasNumericosEntradaScanner" />
+        <item itemvalue="Application.SistemasNumericos" />
         <item itemvalue="Application.PrimitivosBoolean" />
         <item itemvalue="Application.PrimitivosFloat" />
         <item itemvalue="Application.PrimitivosChar" />
-        <item itemvalue="Application.SistemasNumericos" />
-        <item itemvalue="Application.Primitivos" />
       </list>
     </recent_temporary>
   </component>

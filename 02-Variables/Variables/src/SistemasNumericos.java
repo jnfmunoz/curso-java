@@ -4,6 +4,7 @@ public class SistemasNumericos {
     public static void main(String[] args) {
 
         String numberStr = JOptionPane.showInputDialog(null, "Ingrese un número entero: ");
+
         int decimalNumber = 0;
         try{
             decimalNumber = Integer.parseInt(numberStr);
