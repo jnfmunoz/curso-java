@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="07bef2d8-3704-4423-a12a-488f20e8cc9d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversionDeTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversionDeTipos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +31,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ConversionDeTipos.executor": "Run",
-    "Application.Primitivos.executor": "Run",
-    "Application.PrimitivosBoolean.executor": "Run",
-    "Application.PrimitivosChar.executor": "Run",
-    "Application.PrimitivosFloat.executor": "Run",
-    "Application.Saludar.executor": "Run",
-    "Application.SistemasNumericos.executor": "Run",
-    "Application.SistemasNumericosEntradaScanner.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/projects/curso-java/02-Variables/Variables",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConversionDeTipos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Primitivos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitivosBoolean.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitivosChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitivosFloat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Saludar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemasNumericos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemasNumericosEntradaScanner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/projects/curso-java/02-Variables/Variables&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
