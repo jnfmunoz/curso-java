@@ -8,7 +8,6 @@ public class Tarea3 {
         String nombre2;
         String nombre3;
 
-
         System.out.println("Ingrese el primer nombre: ");
         nombre1 = scanner.nextLine();
 
@@ -22,9 +21,7 @@ public class Tarea3 {
         String manejo_nombre2 = Character.toUpperCase(nombre2.charAt(1)) + "." + nombre2.substring(nombre2.length()-2);
         String manejo_nombre3 = Character.toUpperCase(nombre3.charAt(1)) + "." + nombre3.substring(nombre3.length()-2);
 
-        System.out.println("nombre1 = " + manejo_nombre1);
-        System.out.println("nombre2 = " + manejo_nombre2);
-        System.out.println("nombre3 = " + manejo_nombre3);
-
+        String resultado = manejo_nombre1 + "_" + manejo_nombre2 + "_" + manejo_nombre3;
+        System.out.println(resultado);
     }
 }
