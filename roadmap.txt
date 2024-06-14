@@ -1,0 +1,17 @@
+01.-HolaMundo/Saludar.java 
+02.-Variables/Saludar.java
+02.-Variables/Primitivos.java
+02.-Variables/PrimitivosFloat.java
+02.-Variables/PrimitivosChar.java
+02.-Variables/PrimitivosBoolean.java
+02.-Variables/SistemasNumericos.java
+02.-Variables/SistemasNumericosEntradaScanner.java
+02.-Variables/ConversionDeTipos.java
+03.-Strings/EjemploString.java
+03.-Strings/EjemploStringConcatenacion.java
+03.-Strings/EjemploStringInmutable.java
+03.-Strings/EjemploStringTestRendimientoConcat.java
+03.-Strings/EjemploStringValidar.java
+03.-Strings/EjemploStringMetodos.java
+03.-Strings/EjemploStringExtensionArchivo.java
+03.-Strings/EjemploStringMetodosArreglo.java
