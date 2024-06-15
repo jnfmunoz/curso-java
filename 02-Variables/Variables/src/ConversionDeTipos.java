@@ -1,7 +1,7 @@
 public class ConversionDeTipos {
     public static void main(String[] args) {
-        String numeroStr = "50";
 
+        String numeroStr = "50";
         int numeroInt = Integer.parseInt(numeroStr);
         System.out.println("numeroInt = " + numeroInt);
 
@@ -39,7 +39,7 @@ public class ConversionDeTipos {
         System.out.println("l = " + l);
         System.out.println(Short.MAX_VALUE);
         char b = (char)i;
-        System.out.println("b = " + b);
+        System.out.println("b = " + b); //formato unicode
         float f = (float)i;
         System.out.println("f = " + f);
     }

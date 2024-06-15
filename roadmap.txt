@@ -15,3 +15,5 @@
 03.-Strings/EjemploStringMetodos.java
 03.-Strings/EjemploStringExtensionArchivo.java
 03.-Strings/EjemploStringMetodosArreglo.java
+04.-Operadores/OperadorsAritmeticos.java
+04.-Operadores/OperadorAsignacion.java
