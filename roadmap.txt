@@ -17,3 +17,8 @@
 03.-Strings/EjemploStringMetodosArreglo.java
 04.-Operadores/OperadorsAritmeticos.java
 04.-Operadores/OperadorAsignacion.java
+04.-Operadores/OperadoresUnarios.java
+04.-Operadores/OperadoresIncrementales.java
+04.-Operadores/OperadoresRelacionales.java
+04.-Operadores/OperadoresLogicos.java
+04.-Operadores/OperadoresLogicosLogin.java
