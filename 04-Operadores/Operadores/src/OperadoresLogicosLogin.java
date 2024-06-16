@@ -3,11 +3,20 @@ import java.util.Scanner;
 public class OperadoresLogicosLogin {
     public static void main(String[] args) {
 
-        String username = "admin";
-        String password = "admin";
+        /* String[] usernames = new String[3];
+        String[] passwords = new String[3];
 
-        String username2 = "admin2";
-        String password2 = "admin2";
+        usernames[0] = "admin";
+        passwords[0] = "admin";
+
+        usernames[1] = "admin2";
+        passwords[1] = "admin2";
+
+        usernames[2] = "admin3";
+        passwords[2] = "admin3"; */
+
+        String[] usernames = {"admin", "admin2", "admin3"};
+        String[] passwords = {"admin", "admin2", "admin3"};
 
         Scanner scanner = new Scanner(System.in);
 
@@ -19,15 +28,19 @@ public class OperadoresLogicosLogin {
 
         boolean esAutenticado = false;
 
-        if( ((username.equals(u) && password.equals(p)) || (username2.equals(u)) && password2.equals(p))){
-            esAutenticado = true;
+        for(int i = 0; i < usernames.length; i++){
+            if( ((usernames[i].equals(u) && passwords[i].equals(p))) ){
+                esAutenticado = true;
+                break;
+            }
         }
 
-        if(esAutenticado == true){
+        if(esAutenticado){
             System.out.println("Bienvenido " + u + "!");
         }
         else {
-            System.out.println("Usuario inválido");
+            System.out.println("Username o contraseña incorrecta!");
+            System.out.println("Error al iniciar sesión");
         }
 
     }
