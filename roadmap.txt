@@ -23,3 +23,5 @@
 04.-Operadores/OperadoresLogicos.java
 04.-Operadores/OperadoresLogicosLogin.java
 04.-Operadores/OperadorTernario.java
+04.-Operadores/OperadoresLogicosLogin.java -> Ejemplo Login con operador ternario
+04.-Operadores/OperadorTernarioNumeroMayor.java
