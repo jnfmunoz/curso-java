@@ -22,3 +22,4 @@
 04.-Operadores/OperadoresRelacionales.java
 04.-Operadores/OperadoresLogicos.java
 04.-Operadores/OperadoresLogicosLogin.java
+04.-Operadores/OperadorTernario.java
