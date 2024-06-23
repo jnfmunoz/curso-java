@@ -23,8 +23,11 @@
 04.-Operadores/OperadoresLogicos.java
 04.-Operadores/OperadoresLogicosLogin.java
 04.-Operadores/OperadorTernario.java
-04.-Operadores/OperadoresLogicosLogin.java -> Ejemplo Login con operador ternario
+04.-Operadores/OperadoresLogicosLogin.java -> Ejemplo Login con operador ternario, archivo modificado
 04.-Operadores/OperadorTernarioNumeroMayor.java
 04.-Operadores/OperadorInstanceOf.java
 04.-Operadores/OperadorInstanceOfTiposGenericos.java
 04.-Operadores/PrecedenciaOperadores.java
+05.-ControlDeFlujo/SentenciaIfElse.java
+05.-ControlDeFlujo/SentenciaIfElseNumDiasMes.java
+05.-ControlDeFlujo/SentenciaSwitchCase.java
