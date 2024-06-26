@@ -32,3 +32,8 @@
 05.-ControlDeFlujo/SentenciaIfElseNumDiasMes.java
 05.-ControlDeFlujo/SentenciaSwitchCase.java
 05.-ControlDeFlujo/SentenciaSwitchCaseNumDiasMes.java
+05.-ControlDeFlujo/SentenciaFor.java
+05.-ControlDeFlujo/SentenciaForArreglo.java
+05.-ControlDeFlujo/SentenciaWhile.java
+05.-ControlDeFlujo/SentenciaForEach.java
+05.-ControlDeFlujo/SentenciasBucleEtiquetas.java

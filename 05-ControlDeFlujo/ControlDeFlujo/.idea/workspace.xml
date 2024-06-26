@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5dabe0ee-55f3-4ee3-af4b-975ec925f34a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SentenciaSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SentenciaSwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../roadmap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../roadmap.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +34,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.SentenciaFor.executor": "Run",
+    "Application.SentenciaForArreglo.executor": "Run",
+    "Application.SentenciaForEach.executor": "Run",
     "Application.SentenciaIfElse.executor": "Run",
     "Application.SentenciaIfElseNumDiasMes.executor": "Run",
     "Application.SentenciaSwitchCase.executor": "Run",
     "Application.SentenciaSwitchCaseNumDiasMes.executor": "Run",
+    "Application.SentenciaWhile.executor": "Run",
+    "Application.SentenciasBucleEtiquetas.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/projects/curso-java/05-ControlDeFlujo/ControlDeFlujo",
     "onboarding.tips.debug.path": "C:/projects/curso-java/05-ControlDeFlujo/ControlDeFlujo/src/Main.java"
   }
 }]]></component>
