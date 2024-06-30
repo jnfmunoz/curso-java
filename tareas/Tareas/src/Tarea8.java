@@ -33,10 +33,10 @@ public class Tarea8 {
         }
 
         for(double nota:notas){
-            if(nota>5){
+            if(nota > 5){
                 suma_notas_mayor_5+=nota;
                 contar_notas_mayor_5+=1;
-            } else if (nota<4) {
+            } else if (nota < 4) {
                 suma_notas_inferior_4+=nota;
                 contar_notas_inferior_4 += 1;
             }
