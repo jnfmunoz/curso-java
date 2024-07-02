@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dabe0ee-55f3-4ee3-af4b-975ec925f34a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../tareas/Tareas/src/Tarea8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tareas/Tareas/src/Tarea8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tareas/Tareas/src/Tarea10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tareas/Tareas/src/Tarea10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/projects/curso-java/05-ControlDeFlujo/ControlDeFlujo",
+    "last_opened_file_path": "C:/projects/curso-java/tareas/Tareas",
     "onboarding.tips.debug.path": "C:/projects/curso-java/05-ControlDeFlujo/ControlDeFlujo/src/Main.java"
   }
 }]]></component>
