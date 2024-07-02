@@ -29,11 +29,8 @@ public class Tarea10 {
                 case 5:
                     System.out.println("Hasta pronto !");
                     menu = false;
-                default:
-                    System.out.println("Opción inválida!");
-                    break;
-            }
 
+            }
         }while(menu);
 
         s.close();
