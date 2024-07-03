@@ -38,3 +38,6 @@
 05.-ControlDeFlujo/SentenciaForEach.java
 05.-ControlDeFlujo/SentenciasBucleEtiquetas.java
 05.-ControlDeFlujo/SentenciasBucleEtiquetasBuscar.java
+06.-ClasesWrapper/WrapperInteger.java
+06.-ClasesWrapper/AutoboxingInteger.java
+06.-ClasesWrapper/WrapperOperadoresRelacionales.java
