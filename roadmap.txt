@@ -41,3 +41,8 @@
 06.-ClasesWrapper/WrapperInteger.java
 06.-ClasesWrapper/AutoboxingInteger.java
 06.-ClasesWrapper/WrapperOperadoresRelacionales.java
+06.-ClasesWrapper/WrapperBoolean.java
+06.-ClasesWrapper/EjemploMetodoGetClass.java
+07.-ValorVsReferencia/PasarPorValor.java
+07.-ValorVsReferencia/PasarPorReferencia.java
+07.-ValorVsReferencia/PasarPorReferencia2.java
