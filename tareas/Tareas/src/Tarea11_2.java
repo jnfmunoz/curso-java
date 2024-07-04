@@ -24,9 +24,6 @@ public class Tarea11_2 {
         int desde = Integer.parseInt(df.format(fechaNacimiento));
         int hasta = Integer.parseInt(df.format(actual));
 
-        System.out.println("desde = " + desde);
-        System.out.println("hasta = " + hasta);
-
         // luego restamos ambas fechas y dividimos en 10000 para quitar decimales y
         // dejar la fecha en decenas o centenas
         int edad = (hasta - desde) / 10000;
