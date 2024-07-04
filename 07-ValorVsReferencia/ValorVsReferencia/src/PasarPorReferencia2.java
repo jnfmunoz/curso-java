@@ -17,11 +17,11 @@ public class PasarPorReferencia2 {
         persona.modificarNombre("Andres");
 
         System.out.println("iniciamos el método main");
-        System.out.println("persona.modificarNombre(): = " + persona.leerNombre());
+        System.out.println("persona.leerNombre(): = " + persona.leerNombre());
         System.out.println("Antes de llamar al método test");
         test(persona);
         System.out.println("Después de llamar al método test");
-        System.out.println("persona.modificarNombre(): = " + persona.leerNombre());
+        System.out.println("persona.leerNombre(): = " + persona.leerNombre());
 
         System.out.println("finaliza el método main con los datos del arreglo modificados! ");
     }
