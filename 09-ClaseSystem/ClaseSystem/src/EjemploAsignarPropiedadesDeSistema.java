@@ -8,6 +8,8 @@ public class EjemploAsignarPropiedadesDeSistema {
 
         try {
             FileInputStream file = new FileInputStream("src/config.properties");
+            // FileInputStream file = new FileInputStream("src/config2.properties");
+
 
             Properties p = new Properties(System.getProperties());
             p.load(file);
@@ -21,7 +23,9 @@ public class EjemploAsignarPropiedadesDeSistema {
             System.out.println(System.clearProperty("config.autor.email"));
 
         } catch (Exception e) {
-            System.out.println("No existe el archivo! " + e);
+            // System.out.println("No existe el archivo! " + e);
+            System.err.println("No existe el archivo! " + e);
+            System.exit(1);
         }
     }
 }

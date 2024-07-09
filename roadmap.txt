@@ -51,3 +51,5 @@
 08.-ClasesDateYCalendar/EjemploJavaUtilDateParse.java
 09.-ClaseSystem/EjemploPropiedadesDeSistema.java
 09.-ClaseSystem/EjemploAsignarPropiedadesDeSistema.java - config.properties
+09.-ClaseSystem/EjemploVariablesDeEntorno.java
+09.-ClaseSystem/EjemploEjecutarProgramaSO.java
