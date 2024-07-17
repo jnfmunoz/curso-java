@@ -1,0 +1,8 @@
+// Desde Terminal
+// Compilando la clase Java a bytecode
+javac ArgumentosLineaComando.java
+
+// Ejecutando la clase ArgumentosLineaComando
+java ArgumentosLineaComando Andres Pepe "Juan Francisco"
+
+ArgumentosLineaComando.java -encoding utf-8
