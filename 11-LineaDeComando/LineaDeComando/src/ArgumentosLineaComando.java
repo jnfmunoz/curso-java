@@ -9,6 +9,5 @@ public class ArgumentosLineaComando {
         for(int i = 0; i < args.length; i++ ){
             System.out.println("Argumentos n° " + i + ": " + args[i]);
         }
-
     }
 }

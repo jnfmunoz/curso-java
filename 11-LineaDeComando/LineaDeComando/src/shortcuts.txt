@@ -2,7 +2,8 @@
 // Compilando la clase Java a bytecode
 javac ArgumentosLineaComando.java
 
-// Ejecutando la clase ArgumentosLineaComando
+// Ejecutando la clase ArgumentosLineaComando[] args
 java ArgumentosLineaComando Andres Pepe "Juan Francisco"
 
-ArgumentosLineaComando.java -encoding utf-8
+// Caracteres especiales
+javac ArgumentosLineaComando.java -encoding utf-8
