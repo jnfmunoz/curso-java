@@ -57,4 +57,7 @@
 10.-ClaseMath/EjemploClaseMathRandom.java
 11.-LineaDeComando/ArgumentosLineaComando.java
 11.-LineaDeComando/ArgumentosLineaComandoCalculadora.java
-12.-Arreglos/
+12.-Arreglos/EjemploArreglos.java
+12.-Arreglos/EjemploArreglosFor.java
+12.-Arreglos/EjemploArreglosForInverso.java
+12.-Arreglos/EjemploArreglosForInversoMutable.java
