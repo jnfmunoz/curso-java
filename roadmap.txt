@@ -61,3 +61,7 @@
 12.-Arreglos/EjemploArreglosFor.java
 12.-Arreglos/EjemploArreglosForInverso.java
 12.-Arreglos/EjemploArreglosForInversoMutable.java
+12.-Arreglos/EjemploArreglosForOrdenamientoBurbuja.java
+12.-Arreglos/EjemploArreglosOrdenPrincipioFinal.java
+12.-Arreglos/EjemploArreglosCombinados.java
+12.-Arreglos/EjemploArreglosNumMayor.java
