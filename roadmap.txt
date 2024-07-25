@@ -65,3 +65,9 @@
 12.-Arreglos/EjemploArreglosOrdenPrincipioFinal.java
 12.-Arreglos/EjemploArreglosCombinados.java
 12.-Arreglos/EjemploArreglosNumMayor.java
+12.-Arreglos/EjemploArreglosDetectarOrden.java
+12.-Arreglos/EjemploArreglosParesImpares.java
+12.-Arreglos/EjemploArregloNotasAlumnos.java
+12.-Arreglos/EjemploArreglosBuscarNumero.java
+12.-Arreglos/EjemploArreglosBuscarString.java
+12.-Arreglos/EjemploArreglosDesplazarPosicion.java
