@@ -71,3 +71,6 @@
 12.-Arreglos/EjemploArreglosBuscarNumero.java
 12.-Arreglos/EjemploArreglosBuscarString.java
 12.-Arreglos/EjemploArreglosDesplazarPosicion.java
+12.-Arreglos/EjemploArreglosDesplazarPosicion2.java
+12.-Arreglos/EjemploArreglosDesplazarPosicion3.java
+12.-Arreglos/EjemploArreglosEliminar.java
