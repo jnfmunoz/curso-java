@@ -35,9 +35,8 @@ public class EjemploArreglosDesplazarPosicion3b {
         }
         else {
             b[b.length-1] = ultimo;
+            b[posicion] = numero;
         }
-        b[b.length-1] = ultimo;
-        b[posicion] = numero;
         System.out.print("El nuevo arreglo ordenado: \n");
         for(int i = 0; i < b.length; i++){
             System.out.println("["+ i + "]" + " => " + b[i] + " ");;
